@@ -7,7 +7,7 @@ My name is Obed Davy Putra, Jr. Data Scientist & Business Intelligence.
   - Tools: Python, SQL, Ms. Excel, Tableau
   - Skills: Data Analysis, Data Cleaning, Data Visualization
 # 📑 Licenses & Certification
-  - Tableau for Data Scientist [link](https://www.linkedin.com/learning/certificates/0552f5b1e7f139ab27e306d128dab21c65a493e874f1b587a6e19c007256837b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BBfE84IBjQ5OF%2FUhpkmj7YQ%3D%3D)
+  - Tableau for Data Scientists [link](https://www.linkedin.com/learning/certificates/0552f5b1e7f139ab27e306d128dab21c65a493e874f1b587a6e19c007256837b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BBfE84IBjQ5OF%2FUhpkmj7YQ%3D%3D)
   - 5-week Data Science Bootcamp [link](https://aiplanet.com/course/certificates/verify/99cc2dea-2c96-4785-9468-6f755dbebb51)
   - Stanford University's Code in Place [link](https://codeinplace.stanford.edu/cip3/certificate/mgvtbi)
   - Data Science by MySkill [link](https://drive.google.com/file/d/1i5YXJWGjw7eVNMas9VErjgSfxtnoh9A4/view?usp=sharing)
