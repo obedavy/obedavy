@@ -4,6 +4,7 @@ My name is Obed Davy Putra, Jr. Data Scientist & Business Intelligence.
 # 🏢 Projects
   - [Smartwatch Data Analysis](https://github.com/obedavy/Smartwatch-Data-Analysis)
   - [Bank Marketing Prediction](https://github.com/obedavy/Adoption-Prediction-Bank-Marketing)
+  - [Flight Price Prediction](https://github.com/obedavy/Flight-Price-Prediction)
 # 🎁 Competencies
   - Tools: Python, SQL, Ms. Excel, Tableau
   - Skills: Data Analysis, Data Cleaning, Data Visualization, Machine Learning
