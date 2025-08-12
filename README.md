@@ -6,7 +6,7 @@ My name is Obed Davy Putra, Jr. Data Scientist & Business Intelligence.
   - [Bank Marketing Prediction](https://github.com/obedavy/Adoption-Prediction-Bank-Marketing)
   - [Flight Price Prediction](https://github.com/obedavy/Flight-Price-Prediction)
 # 🎁 Competencies
-  - Tools: Python, SQL, Ms. Excel, Tableau
+  - Tools: Python, SQL, Ms. Excel, Power BI
   - Skills: Data Analysis, Data Cleaning, Data Visualization, Machine Learning
 # 📑 Licenses & Certification
   - Digica Data Science Bootcamp Batch 1 (End to End Machine Learning Class) by Digica Academy [link](https://drive.google.com/file/d/1BBf2zCfKyGxuVbjAk4xYVHYp1TDkxjcM/view?usp=sharing)
