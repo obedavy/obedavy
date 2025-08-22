@@ -9,6 +9,7 @@ My name is Obed Davy Putra, Jr. Data Scientist & Business Intelligence.
   - Tools: Python, SQL, Ms. Excel, Power BI
   - Skills: Data Analysis, Data Cleaning, Data Visualization, Machine Learning
 # 📑 Licenses & Certification
+  - Python Summer Party 2025 [link](https://drive.google.com/file/d/1okCuf1OP_W-NS3x6kPEAVJY-g6wRP80N/view?usp=sharing)
   - Digica Data Science Bootcamp Batch 1 (End to End Machine Learning Class) by Digica Academy [link](https://drive.google.com/file/d/1BBf2zCfKyGxuVbjAk4xYVHYp1TDkxjcM/view?usp=sharing)
   - Tableau for Data Scientists [link](https://www.linkedin.com/learning/certificates/0552f5b1e7f139ab27e306d128dab21c65a493e874f1b587a6e19c007256837b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BBfE84IBjQ5OF%2FUhpkmj7YQ%3D%3D)
   - 5-week Data Science Bootcamp [link](https://aiplanet.com/course/certificates/verify/99cc2dea-2c96-4785-9468-6f755dbebb51)
