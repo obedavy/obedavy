@@ -20,5 +20,5 @@ My name is Obed Davy Putra, Jr. Data Scientist & Business Intelligence.
   - Learning SQL Programming [link](https://www.linkedin.com/learning/certificates/0163a78554a44dfe155f7ebc75aa96430780939dc62e69eb3a2ca2989f77eacb?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BBfE84IBjQ5OF%2FUhpkmj7YQ%3D%3D)
   - Data Science - Fresh Graduate Academy Digital Talent Scholarship 2020 [link](https://drive.google.com/file/d/1ukrzRppQPapZIyp1uGR_kFcV9TOmZ9VW/view?usp=sharing)
 # 💬 Find Me!!
-  - [Email](obeddputra@gmail.com)
+  - [obeddputra@gmail.com](obeddputra@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/obeddavy/)
