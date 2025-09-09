@@ -1,5 +1,5 @@
 # Hello, I'm Obed 
-My name is Obed Davy Putra, Jr. Data Scientist & Business Intelligence.
+My name is Obed Davy Putra, Jr. Data Scientist.
 
 # 🏢 Projects
   - [Walmart Sales Forecasting](https://github.com/obedavy/Walmart-Sales-Forecasting)
