@@ -2,13 +2,14 @@
 My name is Obed Davy Putra, Jr. Data Scientist & Business Intelligence.
 
 # 🏢 Projects
+  - [Walmart Sales Forecasting](https://github.com/obedavy/Walmart-Sales-Forecasting)
   - [Retail Sales Data](https://github.com/obedavy/Retail-Sales-Data)
   - [Vehicle Coupon Recommendation](https://github.com/obedavy/Vehicle-Coupon-Recommendation)
   - [Smartwatch Data Analysis](https://github.com/obedavy/Smartwatch-Data-Analysis)
   - [Bank Marketing Prediction](https://github.com/obedavy/Adoption-Prediction-Bank-Marketing)
   - [Flight Price Prediction](https://github.com/obedavy/Flight-Price-Prediction)
 # 🎁 Competencies
-  - Tools: Python, SQL, Ms. Excel, Power BI
+  - Tools: Python, SQL, Ms. Excel
   - Skills: Data Analysis, Data Cleaning, Data Visualization, Machine Learning
 # 📑 Licenses & Certification
   - Python Summer Party 2025 [link](https://drive.google.com/file/d/1okCuf1OP_W-NS3x6kPEAVJY-g6wRP80N/view?usp=sharing)
