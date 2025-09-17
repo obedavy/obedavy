@@ -2,6 +2,7 @@
 My name is Obed Davy Putra, Jr. Data Scientist.
 
 # 🏢 Projects
+  - [Box Office Revenue Prediction](https://github.com/obedavy/Box-Office-Revenue-Prediction)
   - [Walmart Sales Forecasting](https://github.com/obedavy/Walmart-Sales-Forecasting)
   - [Retail Sales Data](https://github.com/obedavy/Retail-Sales-Data)
   - [Vehicle Coupon Recommendation](https://github.com/obedavy/Vehicle-Coupon-Recommendation)
