@@ -2,6 +2,7 @@
 My name is Obed Davy Putra, Jr. Data Scientist.
 
 # 🏢 Projects
+  - [Marketing Campaign Effectiveness (MCE) Analysis](https://github.com/obedavy/Marketing-Campaign-Effectiveness)
   - [Credit Scoring with Business Metrics](https://github.com/obedavy/Credit-Scoring)
   - [Box Office Revenue Prediction](https://github.com/obedavy/Box-Office-Revenue-Prediction)
   - [Walmart Sales Forecasting](https://github.com/obedavy/Walmart-Sales-Forecasting)
